@@ -1,1 +1,1 @@
-# SmartChat
+# 仿微信+ai助手项目
